@@ -1,0 +1,20 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "username": "Prachi",
+      "useremail": "prachikarle03@gmail.com",
+      "userno": "9876543210",
+      "usermsg": "Hello"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "username": "Prachi",
+      "useremail": "prachikarle03@gmail.com",
+      "userno": "9876543210",
+      "userpass": "visionSphere@123"
+    }
+  ]
+}
